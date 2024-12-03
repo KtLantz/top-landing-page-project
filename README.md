@@ -2,17 +2,12 @@
 
 A landing page project that needs to be submitted to the Odin Project. 
 
-As of 11/21, the following items need to be changed/updated: 
+Future lessons/Things to improve:  
 
-- adding actual text to the page, instead of dummy text. 
-- adding a photo that will fit the actual content. 
-- a logo, probably will create something in canva. 
-- replacing the text of "link 1, 2, 3" to something else. 
-- removing the space between the subheader text and the header in the following areas: 
-     - Hero section (underneath the main title).
-     - underneath the individual boxes in the card section.
-     - underneath the call to action title in the cta section.
--adding a flex shrink or something comparable to keep boxes from overlapping when the browser window shrinks. 
--updating dummy text in the footer. 
+- I had to update most of the code from the first iteration to make it more succinct - I imagine there is a better way to organize the classes and elements used, but that is a skill that will take more time and practice. 
 
-*overall, just cleaning up unnecessary css elements to make the sheet more succinct. 
+- While certain items flex, in a smaller view port/browser the elements are not well organized, creating a disorganized, unpleasant experience for the user: knowing there is a way to change the CSS for different views (mobile, tablet, etc.), I need to brush up my knowledge on that part of CSS. 
+
+
+Other notes: 
+Icon sourced from Canva, and the image (as well as the dog) is owned by me. 
